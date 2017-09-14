@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Test1</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="action_settings">False</string>
+    <string name="question_text">if you click true, you will fall  test</string>
+    <string name="question_text2">if you click true, you will fall 2 test</string>
+    <string name="correct_toast"> Correct!</string>
+    <string name="incorrect_toast"> Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="warining_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="title_activity_cheat">CheatActivity</string>
+    <string name="cheat_button">Cheat</string>
+
+    <string name="timer_button">Timer</string>
+</resources>

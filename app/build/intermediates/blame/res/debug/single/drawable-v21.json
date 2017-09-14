@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\bajric\\Desktop\\Test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\bajric\\.android\\build-cache\\153bedbc0cee0f376731db176dc4d6fcece3f971\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\adox\\Desktop\\Test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\adox\\.android\\build-cache\\b1d140dabb88d08a63745101332e4e7f26977788\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bajric\\Desktop\\Test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\bajric\\.android\\build-cache\\153bedbc0cee0f376731db176dc4d6fcece3f971\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\adox\\Desktop\\Test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\adox\\.android\\build-cache\\b1d140dabb88d08a63745101332e4e7f26977788\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bajric\\Desktop\\Test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\bajric\\.android\\build-cache\\153bedbc0cee0f376731db176dc4d6fcece3f971\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\adox\\Desktop\\Test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\adox\\.android\\build-cache\\b1d140dabb88d08a63745101332e4e7f26977788\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bajric\\Desktop\\Test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\bajric\\.android\\build-cache\\153bedbc0cee0f376731db176dc4d6fcece3f971\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\adox\\Desktop\\Test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\adox\\.android\\build-cache\\b1d140dabb88d08a63745101332e4e7f26977788\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]
